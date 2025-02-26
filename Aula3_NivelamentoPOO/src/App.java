@@ -8,7 +8,7 @@ public class App {
     private static List<Produto> produtos = new ArrayList<>();
 
     public static void main(String[] args) {
-        String caminhoArquivo = "C:\\Intellij\\revisao-e-nivelamento-noite-g2-joaomarcelocpa\\produtos.csv";
+        String caminhoArquivo = "C:\\Intellij\\Aula3_NivelamentoPOO\\produtos.csv";
         produtos = new ArrayList<>(Arrays.asList(lerProdutos(caminhoArquivo)));
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
         boolean running = true;
