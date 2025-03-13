@@ -30,6 +30,7 @@ public class Pedido {
         return total;
     }
 
+    // Mostra na tela os dados do pedido durante a execução do programa
     @Override
     public String toString(){
         StringBuilder sb = new StringBuilder();
@@ -38,16 +39,17 @@ public class Pedido {
         for (int i = 0; i < quantProdutos; i++) {
             sb.append(produtos[i].toString()).append("\n");
         }
-        sb.append("Valor Total: ").append(valorFinal());
+        sb.append("Valor Total: ").append(Produto.formatarValor(valorFinal())).append("\n");
         return sb.toString();
     }
 
+    // Gera um resumo do pedido para ser salvo em arquivo
     public String resumo() {
         StringBuilder sb = new StringBuilder();
-        sb.append("Data: ").append(dataPedido).append(", Total: ").append(valorFinal()).append("\n");
+        sb.append("Data: ").append(dataPedido).append(", Total: ").append(Produto.formatarValor(valorFinal())).append("\n");
         sb.append("Produtos:\n");
         for (int i = 0; i < quantProdutos; i++) {
-            sb.append(produtos[i].descricao).append(" - ").append(produtos[i].valorDeVenda()).append("\n");
+            sb.append(produtos[i].descricao).append(" - ").append(produtos[i].formatarValor(produtos[i].valorDeVenda())).append("\n");
         }
         return sb.toString();
     }
