@@ -20,8 +20,8 @@ public class App {
             System.out.println("1. Listar todos os produtos");
             System.out.println("2. Cadastrar novo produto");
             System.out.println("3. Localizar produto");
-            System.out.println("4. Iniciar novo pedido");
-            System.out.println("5. Finalizar pedido");
+            System.out.println("4. Criar novo pedido");
+            System.out.println("5. Finalizar pedido em andamento");
             System.out.println("6. Sair");
 
             int opcao = sc.nextInt();
@@ -79,7 +79,7 @@ public class App {
             }
         }
         pedidos.add(pedido);
-        System.out.println("Pedido iniciado com sucesso!");
+        System.out.println("Pedido criado com sucesso!");
     }
 
     public static void finalizarPedido() {
@@ -99,12 +99,6 @@ public class App {
             }
         } catch (IOException e) {
             e.printStackTrace();
-        }
-    }
-
-    public static void listarTodosOsProdutos() {
-        for (int i = 0; i < produtos.size(); i++) {
-            System.out.println((i + 1) + ". " + produtos.get(i).gerarDadosTexto());
         }
     }
 
@@ -167,6 +161,12 @@ public class App {
             }
         } catch (IOException e) {
             e.printStackTrace();
+        }
+    }
+
+    public static void listarTodosOsProdutos() {
+        for (int i = 0; i < produtos.size(); i++) {
+            System.out.println((i + 1) + ". " + produtos.get(i).gerarDadosTexto());
         }
     }
 
