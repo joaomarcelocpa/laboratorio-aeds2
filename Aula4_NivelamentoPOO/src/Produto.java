@@ -26,11 +26,6 @@ public abstract class Produto {
         init(desc, precoCusto, MARGEM_PADRAO);
     }
 
-    public String formatarValor(double valor) {
-        DecimalFormat df = new DecimalFormat("#.00");
-        return df.format(valor);
-    }
-
     public double valorDeVenda(){
         return precoCusto * (1 + margemLucro);
     }
@@ -68,11 +63,15 @@ public abstract class Produto {
         }
     }
 
+
     @Override
     public String toString() {
         DecimalFormat df = new DecimalFormat("#.00");
         return String.format("Nome do produto: %s\nValor de venda: R$ %s", descricao, df.format(valorDeVenda()));
     }
 
-
+    public static String formatarValor(double valor) {
+        DecimalFormat df = new DecimalFormat("#.00");
+        return df.format(valor);
+    }
 }
