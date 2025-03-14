@@ -4,20 +4,16 @@ Produtos:
 Arroz - 12.5
 Feijão - 12.0
 
-Data: 2025-03-05, Total: 24.5
-Produtos:
-Arroz - 12.5
-Feijão - 12.0
 
-Data: 2025-03-05, Total: 42.1875
+Data: 2025-03-14, Total: 45,29
 Produtos:
-Iogurte - 18.75
-Doce de leite - 23.4375
+Queijo - 23,44
+Leite - 6,25
+Bolo - 15,60
 
-Data: 2025-03-05, Total: 52.0
+Data: 2025-03-14, Total: 39,50
 Produtos:
-Arroz - 12.5
-Feijão - 12.0
-Macarrão - 8.75
-Iogurte - 18.75
+Macarrão - 8,75
+Iogurte - 18,75
+Feijão - 12,00
 
