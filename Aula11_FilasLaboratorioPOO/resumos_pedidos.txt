@@ -1,0 +1,21 @@
+Data: 2025-05-23, Total: 24,50
+Produtos:
+Arroz - 12,50
+Feijão - 12,00
+
+Data: 2025-05-23, Total: 12,50
+Produtos:
+Arroz - 12,50
+
+Data: 2025-05-23, Total: 33,50
+Produtos:
+Arroz - 12,50
+Feijão - 12,00
+Farinha - 9,00
+
+Data: 2025-05-23, Total: 34,25
+Produtos:
+Arroz - 12,50
+Macarrão - 8,75
+Oleo - 13,00
+
