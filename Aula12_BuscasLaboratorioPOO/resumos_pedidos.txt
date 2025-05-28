@@ -1,0 +1,42 @@
+
+Data: 2025-03-05, Total: 24.5
+Produtos:
+Arroz - 12.5
+Feijão - 12.0
+
+Data: 2025-03-14, Total: 45,29
+Produtos:
+Queijo - 23,44
+Leite - 6,25
+Bolo - 15,60
+
+Data: 2025-03-14, Total: 39,50
+Produtos:
+Macarrão - 8,75
+Iogurte - 18,75
+Feijão - 12,00
+
+Data: 2025-04-04, Total: 114,55
+Produtos:
+Azeite - 62,50
+Queijo - 31,25
+Iogurte - 20,80
+
+
+Data: 2025-05-25, Total: 33,25
+Produtos:
+Arroz - 12,50
+Feijão - 12,00
+Macarrão - 8,75
+
+Data: 2025-05-25, Total: 84,00
+Produtos:
+Farinha - 9,00
+Azeite - 62,50
+Arroz - 12,50
+
+Data: 2025-05-25, Total: 24,50
+Produtos:
+Arroz - 12,50
+Feijão - 12,00
+
