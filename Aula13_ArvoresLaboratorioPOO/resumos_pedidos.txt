@@ -1,0 +1,117 @@
+
+Data: 2025-03-05, Total: 24.5
+Produtos:
+Arroz - 12.5
+Feijão - 12.0
+
+Data: 2025-03-14, Total: 45,29
+Produtos:
+Queijo - 23,44
+Leite - 6,25
+Bolo - 15,60
+
+Data: 2025-03-14, Total: 39,50
+Produtos:
+Macarrão - 8,75
+Iogurte - 18,75
+Feijão - 12,00
+
+Data: 2025-04-04, Total: 114,55
+Produtos:
+Azeite - 62,50
+Queijo - 31,25
+Iogurte - 20,80
+
+
+Data: 2025-05-25, Total: 33,25
+Produtos:
+Arroz - 12,50
+Feijão - 12,00
+Macarrão - 8,75
+
+Data: 2025-05-25, Total: 84,00
+Produtos:
+Farinha - 9,00
+Azeite - 62,50
+Arroz - 12,50
+
+Data: 2025-05-25, Total: 24,50
+Produtos:
+Arroz - 12,50
+Feijão - 12,00
+
+Data: 2025-06-27, Total: 12,50
+Produtos:
+Arroz - 12,50
+
+Data: 2025-06-27, Total: 24,50
+Produtos:
+Arroz - 12,50
+Feijão - 12,00
+
+Data: 2025-06-27, Total: 115,40
+Produtos:
+Energético - 12,80
+Lentilha - 10,80
+Torrone - 16,80
+Sabão em Pó - 22,50
+Óleo de Girassol - 12,00
+Presunto - 40,50
+
+Data: 2025-06-27, Total: 69,40
+Produtos:
+Farelo - 6,00
+Nuggets - 25,00
+Instantâneo - 4,55
+Massa de Tomate - 5,00
+Instantâneo - 4,55
+Cereal Matinal - 24,30
+
+Data: 2025-06-27, Total: 29,00
+Produtos:
+Arroz - 12,50
+Farinha - 9,00
+Inhame - 7,50
+
+==================================================
+Data: 2025-06-27, Total: 43,25
+Cliente: Maria Silva (Doc: 10000)
+Produtos:
+  • Arroz - R$ 12,50
+  • Macarrão - R$ 8,75
+  • Farinha - R$ 9,00
+  • Ovos - R$ 13,00
+
+==================================================
+Data: 2025-06-27, Total: 115,40
+Cliente: Raimundo Lopes (Doc: 10013)
+Produtos:
+  • Energético - R$ 12,80
+  • Lentilha - R$ 10,80
+  • Torrone - R$ 16,80
+  • Sabão em Pó - R$ 22,50
+  • Óleo de Girassol - R$ 12,00
+  • Presunto - R$ 40,50
+
+==================================================
+Data: 2025-06-27, Total: 115,40
+Cliente: Raimundo Lopes (Doc: 10013)
+Produtos:
+  • Energético - R$ 12,80
+  • Lentilha - R$ 10,80
+  • Torrone - R$ 16,80
+  • Sabão em Pó - R$ 22,50
+  • Óleo de Girassol - R$ 12,00
+  • Presunto - R$ 40,50
+
+==================================================
+Data: 2025-06-27, Total: 69,40
+Cliente: Luciana Miranda (Doc: 10043)
+Produtos:
+  • Farelo - R$ 6,00
+  • Nuggets - R$ 25,00
+  • Instantâneo - R$ 4,55
+  • Massa de Tomate - R$ 5,00
+  • Instantâneo - R$ 4,55
+  • Cereal Matinal - R$ 24,30
+
